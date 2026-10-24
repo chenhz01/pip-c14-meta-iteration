@@ -1,0 +1,38 @@
+[
+  {
+    "id": "L52",
+    "slug": "iteration-protocol-compiler",
+    "name": "迭代协议编译",
+    "cluster": "元迭代",
+    "dir": "L52-iteration-protocol-compiler",
+    "loc": 54,
+    "chars": 1372
+  },
+  {
+    "id": "L53",
+    "slug": "process-retro-miner",
+    "name": "复盘模式挖掘",
+    "cluster": "元迭代",
+    "dir": "L53-process-retro-miner",
+    "loc": 62,
+    "chars": 1549
+  },
+  {
+    "id": "L54",
+    "slug": "loop-template-evolver",
+    "name": "循环模板进化",
+    "cluster": "元迭代",
+    "dir": "L54-loop-template-evolver",
+    "loc": 58,
+    "chars": 1751
+  },
+  {
+    "id": "L55",
+    "slug": "harness-self-test",
+    "name": "工具自测",
+    "cluster": "元迭代",
+    "dir": "L55-harness-self-test",
+    "loc": 52,
+    "chars": 1782
+  }
+]

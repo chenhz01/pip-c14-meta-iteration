@@ -1,0 +1,22 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Spec name : PIP-1.0 (Process Iteration Primitives, spec v1.0) — pip-c14-meta-iteration
+Scope     : 簇 元迭代（Meta Iteration） / Meta Iteration
+Author    : chenhz01
+
+Legal code  : https://creativecommons.org/licenses/by/4.0/legalcode
+Human summary: https://creativecommons.org/licenses/by/4.0/
+
+Attribution format required
+---------------------------
+When you state that something "conforms to / is compatible with / passes / implements PIP-1.0",
+you must keep:
+
+    PIP-1.0 · pip-c14-meta-iteration © 2026 chenhz01, CC BY 4.0
+    spec home: https://github.com/chenhz01/pip-process-iteration-primitives
+
+If you make no such claim, you may use, modify, commercialise, close-source or rename
+this work freely, with no attribution obligation.
+
+Note: the code layer is licensed under Apache-2.0 independently (see LICENSE).
+The two layers cover implementation and specification respectively and do not conflict.
